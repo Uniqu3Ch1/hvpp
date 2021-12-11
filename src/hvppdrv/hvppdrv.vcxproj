@@ -71,6 +71,7 @@
     <MASM />
     <Link>
       <GenerateDebugInformation>DebugFull</GenerateDebugInformation>
+      <TreatLinkerWarningAsErrors>false</TreatLinkerWarningAsErrors>
     </Link>
     <PostBuildEvent />
   </ItemDefinitionGroup>
